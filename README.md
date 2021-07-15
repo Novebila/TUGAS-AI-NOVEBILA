@@ -1,4 +1,6 @@
-
+**#LINK SUMBER NYA**
+Part 1: https://youtu.be/HIwjAx3YI3M
+Part 2: https://youtu.be/yTXzk0Q1tb4
 
 # Tebak Gambar
 Sebuah aplikasi sederhana yang dapat menebak gambar yang dibuat oleh user menggunakan AI. Pada project kali ini, dataset dibuat melalui aplikasi ini secara langsung dan di train menggunakan algoritma kNN. Aplikasi ini mampu membedakan gambar lingkaran, kotak, dan segitiga secara real-time.
